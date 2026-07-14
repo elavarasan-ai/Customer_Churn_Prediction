@@ -57,7 +57,7 @@ This project predicts whether a customer is likely to churn using Machine Learni
 
 ## 📈 Model Performance
 
-- Accuracy: **XX.XX%**
+- Accuracy: **80.31%**
 - Precision
 - Recall
 - F1-Score
