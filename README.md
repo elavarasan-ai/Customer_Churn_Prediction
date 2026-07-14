@@ -19,31 +19,31 @@ This project predicts whether a customer is likely to churn using Machine Learni
 
 ## 📊 Customer Churn Distribution
 
-![Customer Churn Distribution](images/churn_distribution.png)
+![Customer Churn Distribution](churn_distribution.png)
 
 ---
 
 ## 👨 Gender vs Churn
 
-![Gender vs Churn](images/gender_vs_churn.png)
+![Gender vs Churn](gender_vs_churn.png)
 
 ---
 
 ## 📑 Contract Type vs Churn
 
-![Contract vs Churn](images/contract_vs_churn.png)
+![Contract vs Churn](contract_vs_churn.png)
 
 ---
 
 ## 🌳 Top 10 Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
 ## 💻 Streamlit Web Application
 
-![Streamlit App](images/streamlit_app.png)
+![Streamlit App](streamlit_app.png)
 
 ---
 
@@ -62,7 +62,7 @@ This project predicts whether a customer is likely to churn using Machine Learni
 - Recall
 - F1-Score
 
-*(Replace **XX.XX%** with your actual accuracy.)*
+*(Accuracy: 80.31%)*
 
 ---
 
